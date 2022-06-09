@@ -1,0 +1,121 @@
+body{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+div{
+    text-align: center;
+    background-color: black;
+}
+.receba{
+    color: rgba(0, 168, 87, 1);
+    font-family: Helvetica;
+}
+.fulano{
+    color: white;
+    font-family: Helvetica;
+}
+.conta{
+    color: white;
+    font-family: Helvetica;
+}
+.carteira{
+    height: 56px;
+    width: 56px;
+    left: 60px;
+    top: 505px;
+    border-radius: 0px;
+}
+.carteiraTexto{
+    color: white;
+    font-family: Helvetica;
+}
+.zero{
+    height: 56px;
+    width: 56px;
+    left: 60px;
+    top: 581px;
+    border-radius: 0px;
+}
+.zeroTexto{
+    color: white;
+    font-family: Helvetica;
+}
+.tarifa{
+    height: 56px;
+    width: 56px;
+    left: 60px;
+    top: 657px;
+    border-radius: 0px;
+}
+.tarifaTexto{
+    color: white;
+    font-family: Helvetica;
+}
+.cashback{
+    height: 56px;
+    width: 56px;
+    left: 60px;
+    top: 657px;
+    border-radius: 0px;
+}
+.cashbackTexto{
+    color: white;
+    font-family: Helvetica;
+}
+.final{
+    color: rgb(0, 0, 0);
+    font-family: Helvetica;
+}
+.online{
+    color: rgb(0, 0, 0);
+    font-family: Helvetica;
+}
+.descadastro{
+    color: rgb(0, 0, 0);
+    font-family: Helvetica;
+}
+.siga{
+    color: rgb(0, 0, 0);
+    font-family: Helvetica;
+}
+.tweet{
+    width: 25px;
+    height: 25px;
+    left: 368px;
+    top: 1983px;
+}
+.facebook{
+    height: 25px;
+    width: 25px;
+    left: 403px;
+    top: 1983px;
+    border-radius: 0px;
+}
+.insta{
+    height: 25px;
+    width: 25px;
+    left: 438px;
+    top: 1983px;
+    border-radius: 0px;
+}
+.linkedin{
+    height: 25px;
+    width: 25px;
+    left: 473px;
+    top: 1983px;
+    border-radius: 0px;
+}
+.youtube{
+    height: 25px;
+    width: 25px;
+    left: 508px;
+    top: 1983px;
+    border-radius: 0px;
+}
+.footer{
+    height: 96.71641540527344px;
+    width: 540px;
+    left: 30px;
+    top: 1853px;
+    border-radius: 0px;
+}
